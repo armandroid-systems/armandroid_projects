@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">STP Scanner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scan">ScanActivity</string>
+    <string name="boton_escanear">Capturar recibo</string>
+    <string name="boton_exportar">Generar archivo</string>
+    <string name="titulo_menu">Seleccione una opción</string>
+    <string name="titulo_scanform">Escaneo de recibo</string>
+    <string name="title_camview">Enfoque el objetivo</string>
+    <!-- DIRECTORIOS -->
+    <string name="base_directory">/STP/</string>
+    <string name="cvs_directory">CSV/</string>
+    <string name="cvs_prefix">SCAN</string>+
+    <!--FORMULARIO ESCANEO-->
+    <string name="boton_capturar">Capturar código</string>
+    <string name="boton_guardar">Guardar registro</string>
+    <string name="label_captured">Numero escanneado</string>
+    <string name="label_result">Numero de recibo</string>
+
+    <string name="title_activity_controller">ControllerActivity</string>
+
+</resources>

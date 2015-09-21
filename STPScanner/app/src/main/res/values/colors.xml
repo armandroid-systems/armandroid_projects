@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_saac_base">#1f4172</color>
+    <color name="color_saac_end">#294c82</color>
+    <color name="color_saac_end2">#3b66a6</color>
+    <color name="color_saac_stroke">#F3F8FC</color>
+    <color name="color_sacc_splash">#FF0071bb</color>
+    <color name="color_saac_splas_end">#FF008080</color>
+    <color name="color_saac_gray_dark">#a7a7a7</color>
+    <color name="color_saac_gray_light">#F3F3F3</color>
+</resources>
